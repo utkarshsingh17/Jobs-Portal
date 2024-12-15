@@ -1,7 +1,6 @@
 /home/kali/Downloads/Job-Portal/src/main/java/com/dao/CategoryDaoImpl.java
 /home/kali/Downloads/Job-Portal/src/main/java/com/dao/JobsDaoImpl.java
 /home/kali/Downloads/Job-Portal/src/main/java/com/dao/IUserDao.java
-/home/kali/Downloads/Job-Portal/src/main/java/com/db/ConnectionProvider.java
 /home/kali/Downloads/Job-Portal/src/main/java/com/dto/UserComment.java
 /home/kali/Downloads/Job-Portal/src/main/java/com/serviceFactory/UserServiceFactory.java
 /home/kali/Downloads/Job-Portal/src/main/java/com/daoFactory/UserDaoFactory.java

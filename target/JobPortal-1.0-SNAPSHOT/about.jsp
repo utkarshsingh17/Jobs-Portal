@@ -1,7 +1,5 @@
 <%-- 
-    Document   : about
-    Created on : Feb 28, 2022, 9:10:03 PM
-    Author     : MeGa
+    Author     : kali
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

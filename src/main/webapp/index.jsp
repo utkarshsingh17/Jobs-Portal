@@ -1,7 +1,5 @@
 <%-- 
-    Document   : index
-    Created on : Feb 28, 2022, 6:51:58 PM
-    Author     : MeGa
+    Author     : kali
 --%>
 
 

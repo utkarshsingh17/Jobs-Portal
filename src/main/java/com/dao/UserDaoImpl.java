@@ -12,7 +12,7 @@ import java.sql.ResultSet;
 
 /**
  *
- * @author MeGa
+ * @author kali
  */
 public class UserDaoImpl implements IUserDao {
 

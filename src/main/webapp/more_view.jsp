@@ -1,7 +1,5 @@
 <%-- 
-    Document   : more_view
-    Created on : Mar 4, 2022, 7:27:59 PM
-    Author     : MeGa
+    Author     : kali
 --%>
 <%@page import="java.util.ArrayList"%>
 <%@page import="com.dto.Jobs"%>

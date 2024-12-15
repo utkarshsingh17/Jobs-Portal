@@ -14,7 +14,7 @@ import java.util.List;
 
 /**
  *
- * @author MeGa
+ * @author kali
  */
 public class LocationDaoImpl implements ILocationDao{
 

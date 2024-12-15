@@ -22,7 +22,6 @@ com/dto/Location.class
 com/util/JdbcUtil.class
 com/controller/UpdateUserServlet.class
 com/serviceFactory/CategoryServiceFactory.class
-com/db/ConnectionProvider.class
 com/service/CategoryServiceImpl.class
 com/dao/JobsDaoImpl.class
 com/controller/RegisterServlet.class

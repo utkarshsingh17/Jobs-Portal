@@ -4,11 +4,13 @@
  */
 package com.dto;
 
+import java.io.Serializable;
+
 /**
  *
- * @author MeGa
+ * @author kali
  */
-public class Jobs {
+public class Jobs implements Serializable{
 
     private Integer id;
     private String title;

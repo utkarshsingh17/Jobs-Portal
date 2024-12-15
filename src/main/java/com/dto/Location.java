@@ -4,11 +4,13 @@
  */
 package com.dto;
 
+import java.io.Serializable;
+
 /**
  *
- * @author MeGa
+ * @author kali
  */
-public class Location {
+public class Location implements Serializable{
 
     private Integer id;
     private String lName;

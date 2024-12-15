@@ -1,7 +1,5 @@
 <%-- 
-    Document   : edit_profile
-    Created on : Mar 4, 2022, 11:22:15 PM
-    Author     : MeGa
+    Author     : kali
 --%>
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
 <%@page isELIgnored="false" %>

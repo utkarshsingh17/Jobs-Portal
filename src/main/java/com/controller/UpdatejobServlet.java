@@ -4,13 +4,12 @@
  */
 package com.controller;
 
-import com.dao.JobsDaoImpl;
-import com.db.ConnectionProvider;
+
 import com.dto.Jobs;
 import com.service.IJobsService;
 import com.serviceFactory.JobsServiceFactory;
 import java.io.IOException;
-import java.io.PrintWriter;
+
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
@@ -20,7 +19,7 @@ import javax.servlet.http.HttpSession;
 
 /**
  *
- * @author MeGa
+ * @author kali
  */
 @WebServlet("/update")
 public class UpdatejobServlet extends HttpServlet {

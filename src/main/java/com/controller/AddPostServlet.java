@@ -17,7 +17,7 @@ import javax.servlet.http.HttpSession;
 
 /**
  *
- * @author MeGa
+ * @author kali
  */
 @WebServlet("/add_Job")
 public class AddPostServlet extends HttpServlet {

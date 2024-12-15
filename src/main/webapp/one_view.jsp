@@ -1,7 +1,5 @@
 <%-- 
-    Document   : one_view
-    Created on : Mar 4, 2022, 7:06:49 PM
-    Author     : MeGa
+    Author     : kali
 --%>
 <%@page import="com.dto.Jobs"%>
 <%@page import="com.serviceFactory.JobsServiceFactory"%>

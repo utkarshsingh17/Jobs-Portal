@@ -17,7 +17,7 @@ import javax.servlet.http.HttpSession;
 
 /**
  *
- * @author MeGa
+ * @author kali
  */
 @WebServlet("/user_comment")
 public class UserCommentServlet extends HttpServlet {

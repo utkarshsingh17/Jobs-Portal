@@ -4,11 +4,13 @@
  */
 package com.dto;
 
+import java.io.Serializable;
+
 /**
  *
  * @author MeGa
  */
-public class User {
+public class User implements Serializable{
 
     private Integer id;
     private String name;

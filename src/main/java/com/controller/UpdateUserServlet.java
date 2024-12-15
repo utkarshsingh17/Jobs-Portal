@@ -4,13 +4,12 @@
  */
 package com.controller;
 
-import com.dao.UserDaoImpl;
-import com.db.ConnectionProvider;
+
 import com.dto.User;
 import com.service.IUserService;
 import com.serviceFactory.UserServiceFactory;
 import java.io.IOException;
-import java.io.PrintWriter;
+
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
@@ -20,7 +19,7 @@ import javax.servlet.http.HttpSession;
 
 /**
  *
- * @author MeGa
+ * @author kali
  */
 @WebServlet("/update_profile")
 public class UpdateUserServlet extends HttpServlet {
