@@ -25,7 +25,7 @@
                                     <img src="img/jatenderimage.jpg" class="img-name" />
                                     
                                 </div>
-                                <h2>Jatender Khatri</h2>
+                                <h2>Utkarsh Singh</h2>
                                 <h3>Team Member</h3>
                                 <p>I am a Student</p>
                             </div>
@@ -38,7 +38,7 @@
                                     <img src="img/nareshkumar.jpg" class="img-name" />
                                     
                                 </div>
-                                <h2>Naresh Khatri</h2>
+                                <h2>Harsh Singh</h2>
                                 <h3>Team Member</h3>
                                 <p>I am a Student</p>
                             </div>
@@ -51,7 +51,7 @@
                                     <img src="img/turab.jpg" class="img-name" />
                                     
                                 </div>
-                                <h2>Turab Bajeer</h2>
+                                <h2>Sarvesh Singh</h2>
                                 <h3>Team Member</h3>
                                 <p>I am a Student</p>
                             </div>

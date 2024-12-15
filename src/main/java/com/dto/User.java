@@ -8,7 +8,7 @@ import java.io.Serializable;
 
 /**
  *
- * @author MeGa
+ * @author kali
  */
 public class User implements Serializable{
 

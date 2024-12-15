@@ -11,8 +11,6 @@
 <%@page import="java.util.List"%>
 <%@page import="com.serviceFactory.LocationServiceFactory"%>
 <%@page import="com.service.ILocationService"%>
-<%@page import="com.db.ConnectionProvider"%>
-<%@page import="com.db.ConnectionProvider"%>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <%@page isELIgnored="false" %>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
